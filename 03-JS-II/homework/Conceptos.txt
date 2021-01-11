@@ -1,0 +1,3 @@
+- for. Es una repetición de una tarea hasta que se cumplan las condiciones dadas.
+
+- &&, ||, !. Cada una de los anteriores operadores se usan para comparar expresiones. && (Y) Indica que para continuar con el proceso las condiciones si o si se cumplen, es decir, son verdaderas. || (O) Indica que al menos una de las condiciones evaluadas es verdad. ! (NOT) se usa para negar la siguiente expresion.
