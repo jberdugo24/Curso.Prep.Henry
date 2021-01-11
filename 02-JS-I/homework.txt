@@ -1,0 +1,9 @@
+ - Variables. Forma de almacenar un valor de cualquier tipo para ser usado después.
+
+ - Strings. Es un tipo de variable para cadenas o expresiones. 
+
+ - Funciones (argumentos, return). Son objetos que hacen operaciones y permiten ser llamados para realizar lo que queremos. Toda función está con paréntesis y pueden llevar argumentos que después de la operación retornorá un valor. 
+
+ - Declaraciones if. Es una forma de comparación y de control de flujo, te indica si algo se cumple o no. True or False
+
+ - Valores booleanos (true, false). Es un tipo de variable que te da solo dos opciones de retorno, true or false.
